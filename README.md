@@ -1,51 +1,44 @@
-<h1 align="center">Hi 👋, I'm Anas Alhilo (أنس الحلو)</h1>
-<h3 align="center">Software Engineer & Mobile Application Developer 📱 | Flutter, Android, iOS</h3>
+<h1 align="center">Hi there 👋, I'm Anas Alhilo</h1>
+<h3 align="center">📱 Engineering clean, maintainable mobile apps @m7m-tech 🇵🇸</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anas-alhilo&label=Profile%20views&color=0e75b6&style=flat" alt="anas-alhilo" />
+  I am a Software Engineer from Palestine, Gaza, specializing in building robust, scalable, and high-performance mobile applications using <b>Flutter</b>. I strongly advocate for Clean Code, SOLID principles, and structured architectures.
 </p>
 
-- 🎓 Holds a degree in **Mobile Application Development and Design** from UCAS.
-- 💼 Specialized in cross-platform development with **Flutter & Dart**, alongside **Native Android (Java, Jetpack Compose)** and **Native iOS (Swift, UIKit)**.
-- 🏗️ Strong advocate for software engineering principles: **Clean Architecture**, **Feature-First Design**, **BLoC/Provider**, and **SOLID** principles.
-- 🚀 Developed smart routing & fleet management apps like **Aqrab (أقرب)** & **RouteX**, and task management apps like **Taskora**.
-- 🌐 Freelance Mobile Developer on platforms like **Upwork, Mostaql, and Khamsat**.
-- 🎮 Also experienced in Game Development using **Unity (C#)** and digital image processing with **MATLAB**.
+---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 👨‍💻 What I do:
+- 🏗️ Architecting large-scale apps using **Clean Architecture** & **Feature-Driven Development**.
+- 🧠 Managing complex app states using **BLoC / Cubit**.
+- 🔌 Seamlessly integrating **RESTful APIs** with robust error handling.
+- 🎨 Translating complex **Figma** designs into pixel-perfect Flutter UI.
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
 <p align="left">
-  <!-- Mobile & Frontend -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  
-  <!-- Backend & DB -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-1A237E?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="left">📊 GitHub Stats & Add-ons:</h3>
-<p align="center">
-<a href="https://github.com/anas-alhilo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas-alhilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-alhilo&layout=compact&langs_count=7&theme=radical"/>
-</a>
-</p>
+---
+
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-alhilo&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-alhilo&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Anas GitHub Stats" />
 </p>
 
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-  <a href="mailto:anas.sh.alhilo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/anas-alhilo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+---
+
+### 📬 Get in Touch:
+- 📧 **Email:** [anas.sh.alhilo@gmail.com](mailto:anas.sh.alhilo@gmail.com)
+- 💼 **LinkedIn:** [Anas Alhilo](ضع_رابط_حسابك_هنا)
