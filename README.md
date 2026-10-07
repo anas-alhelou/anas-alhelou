@@ -41,4 +41,4 @@
 
 ### 📬 Get in Touch:
 - 📧 **Email:** [anas.sh.alhilo@gmail.com](mailto:anas.sh.alhilo@gmail.com)
-- 💼 **LinkedIn:** [Anas Alhilo](ضع_رابط_حسابك_هنا)
+- 💼 **LinkedIn:** [Anas Alhelou](https://www.linkedin.com/in/anasalhelou)
