@@ -31,14 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-alhilo&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Anas GitHub Stats" />
-</p>
-
----
-
 ### 📬 Get in Touch:
 - 📧 **Email:** [anas.sh.alhilo@gmail.com](mailto:anas.sh.alhilo@gmail.com)
 - 💼 **LinkedIn:** [Anas Alhelou](https://www.linkedin.com/in/anasalhelou)
