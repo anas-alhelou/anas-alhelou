@@ -1,17 +1,22 @@
 <h1 align="center">Hi there 👋, I'm Anas Alhilo</h1>
-<h3 align="center">📱 Engineering clean, maintainable mobile apps | Co-founder @ RouteX 🇵🇸</h3>
+<h3 align="center">📱 Mobile App Developer | Flutter Specialist 🇵🇸</h3>
 
 <p align="center">
-  I am a Software Engineer from Palestine, Gaza, specializing in building robust, scalable, and high-performance mobile applications using <b>Flutter</b>. I strongly advocate for Clean Code, SOLID principles, and structured architectures.
+  I am a Mobile App Developer from Palestine, Gaza, specializing in building robust, scalable, and high-performance applications. I combine <b>Clean Architecture</b> with <b>AI-assisted development workflows</b> to deliver efficient and maintainable solutions.
 </p>
 
 ---
 
 ### 👨‍💻 What I do:
-- 🏗️ Architecting large-scale apps using **Clean Architecture** & **Feature-Driven Development**.
-- 🧠 Managing app states using **BLoC / Cubit**.
-- 🔌 Seamlessly integrating **RESTful APIs** with robust error handling.
-- 🎨 Translating **Figma** designs into Flutter UI.
+- 🚀 **Current Focus:** Architecting and developing **RouteX**, a smart routing and logistics mobile application, utilizing **Feature-First Architecture** and **SOLID** principles.
+- 🤖 **AI in Development:** Professionally leveraging AI tools and workflows to accelerate coding, optimize complex logic, and enhance overall productivity.
+- 🏗️ **Architecture & State Management:** Crafting scalable apps with **Clean Architecture** and managing complex states using **BLoC / Cubit**.
+- 🌉 **Native Awareness:** Familiar with native **Android (Java/Compose)** and **iOS (Swift)**, which helps in solving platform-specific challenges effectively.
+
+---
+
+### 🎯 Currently Looking For:
+I am actively seeking new opportunities! Open to **Full-time Roles**, **Internships / Training**, and **Freelance** projects. Let's build something great together.
 
 ---
 
@@ -23,9 +28,9 @@
   <img src="https://img.shields.io/badge/BLoC-1A237E?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
