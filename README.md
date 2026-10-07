@@ -9,9 +9,9 @@
 
 ### 👨‍💻 What I do:
 - 🏗️ Architecting large-scale apps using **Clean Architecture** & **Feature-Driven Development**.
-- 🧠 Managing complex app states using **BLoC / Cubit**.
+- 🧠 Managing app states using **BLoC / Cubit**.
 - 🔌 Seamlessly integrating **RESTful APIs** with robust error handling.
-- 🎨 Translating complex **Figma** designs into pixel-perfect Flutter UI.
+- 🎨 Translating **Figma** designs into Flutter UI.
 
 ---
 
