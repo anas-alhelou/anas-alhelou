@@ -1,122 +1,41 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Anas Alhelou</h1>
+<h3 align="center">Cross-Platform Developer | Flutter Specialist</h3>
 
-<img src="assets/flutter-hero.svg" alt="An animated Flutter logo next to a Dart class that describes Anas Alhelou, Cross-Platform Developer and Flutter Specialist" width="100%" />
-
-<h1>Anas Alhelou</h1>
-
-<p><b>Cross-Platform Developer | Flutter Specialist</b></p>
-
-<p>
-I specialize in mobile application development with Flutter and Dart.<br />
-I focus on well-structured, maintainable apps and on turning product requirements and designs into reliable mobile experiences.
+<p align="center">
+  I am a Cross-Platform Developer specializing in mobile application development with Flutter and Dart. I focus on building well-structured, maintainable applications and turning product requirements and designs into reliable mobile experiences.
 </p>
-
-<a href="https://www.linkedin.com/in/anasalhelou"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="mailto:anas.sh.alhilo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
-
-</div>
 
 ---
 
-## Technical approach
+### Technical Approach
+- **Architecture & Structure:** My development approach is based on Clean Architecture, Feature-First structure, and SOLID principles. I care about keeping code organized and making applications easier to maintain and extend.
+- **State Management & Core Features:** Solid experience in BLoC state management, REST API integration, local storage, authentication, and offline-first functionality.
+- **Native Awareness:** Alongside Flutter, I have experience working with native Android, giving me a better understanding of platform-specific functionality and how Flutter applications interact with native code.
+- **Version Control & Collaboration:** Comfortable working in a team environment using Git and GitHub, including branching, pull requests, code reviews, and resolving merge conflicts.
 
-Flutter lets one codebase serve several platforms. Clean Architecture keeps that codebase healthy as the product grows.
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### Tech Stack & Tools
 
-**Architecture and structure**
-
-Clean Architecture, a feature-first structure and SOLID principles keep code organized and make applications easier to maintain and extend.
-
-</td>
-    <td width="50%" valign="top">
-
-**State management and core features**
-
-BLoC state management, REST API integration, local storage, authentication and offline-first functionality.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Native awareness**
-
-Hands-on experience with native Android, which helps me understand platform-specific functionality and how Flutter apps interact with native code.
-
-</td>
-    <td width="50%" valign="top">
-
-**Version control and collaboration**
-
-Git and GitHub in team environments: branching, pull requests, code reviews and resolving merge conflicts.
-
-</td>
-  </tr>
-</table>
-
-## How a feature is built
-
-Each feature owns its three layers, so features stay independent and the app is easy to extend.
-
-```mermaid
-flowchart TB
-    subgraph P["Presentation"]
-        direction LR
-        W["Widgets and pages"] <--> B["BLoC<br/>events in, states out"]
-    end
-    subgraph D["Domain"]
-        direction LR
-        U["Use cases"] --> R["Repository contracts"]
-    end
-    subgraph X["Data"]
-        direction LR
-        I["Repository implementations"] --> RS["Remote data source<br/>REST API"]
-        I --> LS["Local data source<br/>local storage"]
-    end
-    P -->|calls| D
-    D -. implemented by .-> X
-```
-
-<details>
-<summary>Folder layout</summary>
-
-```text
-lib/
-├── core/                  # theme, router, shared widgets, utilities
-└── features/
-    └── <feature>/
-        ├── data/          # models, data sources, repository implementations
-        ├── domain/        # entities, repository contracts, use cases
-        └── presentation/  # BLoC, screens, widgets
-```
-
-</details>
-
-## Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,figma" alt="Flutter, Dart, Git, GitHub and Figma" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-1A237E?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p align="center">Also working with BLoC, REST APIs, local storage and native Android.</p>
+---
 
-## Selected work
+### What's Next
+I am always looking to improve my development skills, learn from real-world projects, and find better ways to solve technical problems. I am open to connecting with teams and companies building cross-platform products where I can contribute to meaningful projects.
 
-| Project | About |
-| --- | --- |
-| [**RouteX**](https://github.com/m7m-tech/route_x) | Driver-side mobile app built by a Flutter team in Taqat Academy's CodeMap program. I designed the feature-based architecture and set up the base development environment. Built with Flutter, flutter_bloc and GoRouter. |
-| [**Taskora CodeCenter**](https://github.com/anas-alhilo/taskora_codecenter) | Task management app on a feature-based architecture with SOLID principles. Built with Flutter, BLoC and SharedPreferences. In progress. |
-| [**Grocery Plus**](https://github.com/anas-alhilo/grocery_plus) | Grocery shopping app built with Flutter. |
+---
 
-More projects are in my [repositories](https://github.com/anas-alhilo?tab=repositories).
-
-## Open to connect
-
-I'm always looking to improve my development skills, learn from real-world projects and find better ways to solve technical problems. I'd like to connect with teams and companies building cross-platform products where I can contribute to meaningful work.
-
-- LinkedIn: [linkedin.com/in/anasalhelou](https://www.linkedin.com/in/anasalhelou)
-- Email: [anas.sh.alhilo@gmail.com](mailto:anas.sh.alhilo@gmail.com)
+### Get in Touch
+- **Email:** [anas.sh.alhilo@gmail.com](mailto:anas.sh.alhilo@gmail.com)
+- **LinkedIn:** [Anas Alhelou](https://www.linkedin.com/in/anasalhelou)
