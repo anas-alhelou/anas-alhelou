@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=220&section=header&text=Anas%20Alhelou&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cross-Platform%20Developer%20%7C%20Flutter%20Specialist&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=220&section=header&text=Anas%20Alhelou&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cross-Platform%20Developer%20%7C%20Flutter%20Specialist&descAlignY=55&descSize=18" alt="Header" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Building+maintainable+mobile+apps+with+Flutter;Clean+Architecture+%7C+BLoC+%7C+SOLID;Turning+designs+into+reliable+products" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="mailto:anas.sh.alhilo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:anas.s.alhelou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/anas-alhelou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/anasalhelou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
@@ -57,11 +57,7 @@ I am a Cross-Platform Developer specializing in mobile application development w
 ### 💻 GitHub Stats
 
 <div align="center">
-  <!-- استبدل USERNAME باسم حسابك الحقيقي في GitHub -->
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=anasalhelou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=anas-alhelou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -78,3 +74,4 @@ open_to:
   - Flutter / Mobile development roles
   - Freelance & contract projects
   - Collaboration on open-source tools
+```
