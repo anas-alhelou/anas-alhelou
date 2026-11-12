@@ -54,21 +54,11 @@ I am a Cross-Platform Developer specializing in mobile application development w
 
 ---
 
-### 💻 Terminal Stats & Activity
+### 💻 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=USERNAME&theme=tokyonight&headerStyle=mac&typingSpeed=60" alt="Terminal Stats" />
-</a>
-
-<br/><br/>
-
-<!-- إذا كنت تريد إضافة بطاقة الإحصائيات التقليدية، تأكد من استبدال USERNAME -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
--->
-
+  <!-- استبدل USERNAME باسم حسابك الحقيقي في GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
