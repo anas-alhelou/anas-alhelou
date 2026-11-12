@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=220&section=header&text=Anas%20Alhelou&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cross-Platform%20Developer%20%7C%20Flutter%20Specialist&descAlignY=55&descSize=18" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:29B6F6&height=230&section=header&text=Anas%20Alhelou&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cross-Platform%20Developer%20%7C%20Flutter%20Specialist&descAlignY=58&descSize=19" alt="Header" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Building+maintainable+mobile+apps+with+Flutter;Clean+Architecture+%7C+BLoC+%7C+SOLID;Turning+designs+into+reliable+products" alt="Typing SVG" />
+<a href="https://github.com/anas-alhelou">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=29B6F6&center=true&vCenter=true&width=650&lines=Building+maintainable+mobile+apps+with+Flutter;Clean+Architecture+%7C+BLoC+%7C+SOLID+Principles;Turning+complex+designs+into+reliable+products;Passionate+about+scalable+%26+clean+code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,7 +57,8 @@ I am a Cross-Platform Developer specializing in mobile application development w
 ### 💻 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=anas-alhelou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=anas-alhelou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=anas-alhelou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -75,3 +76,5 @@ open_to:
   - Freelance & contract projects
   - Collaboration on open-source tools
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:29B6F6&height=120&section=footer" alt="Footer" />
