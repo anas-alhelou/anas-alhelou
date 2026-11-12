@@ -1,173 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%" role="img" aria-label="Anas Alhelou - Cross-Platform Developer">
-  <defs>
-    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#1E1B4B" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#030712" stop-opacity="1"/>
-    </radialGradient>
-    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0.8"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#030712" stop-opacity="0.9"/>
-    </linearGradient>
-    
-    <!-- Typing Mask -->
-    <clipPath id="typingMask">
-      <rect x="0" y="0" width="0" height="100%">
-        <animate attributeName="width" from="0" to="380" dur="3s" begin="1s" fill="freeze"/>
-      </rect>
-    </clipPath>
-  </defs>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0F172A,100:02569B&height=220&section=header&text=Anas%20Alhelou&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cross-Platform%20Developer%20%7C%20Flutter%20Specialist&descAlignY=55&descSize=18" />
+</div>
 
-  <!-- Background -->
-  <rect width="1180" height="610" rx="24" fill="#030712" />
-  <rect width="1180" height="610" rx="24" fill="url(#bgGlow)" />
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+maintainable+mobile+apps+with+Flutter;Clean+Architecture+%7C+BLoC+%7C+SOLID;Turning+designs+into+reliable+products" alt="Typing SVG" />
+  </a>
+</div>
 
-  <!-- Outer Frame -->
-  <rect x="2" y="2" width="1176" height="606" rx="22" fill="none" stroke="url(#borderGlow)" stroke-width="2"/>
-  <rect x="16" y="16" width="1148" height="578" rx="16" fill="none" stroke="#1E293B" stroke-width="1"/>
+<br/>
 
-  <!-- ================= LEFT PANEL (VISUAL.MAP) ================= -->
-  <g transform="translate(32, 32)">
-    <!-- Terminal Header -->
-    <rect x="0" y="0" width="420" height="540" rx="12" fill="url(#panelGrad)" stroke="#334155" stroke-width="1"/>
-    <path d="M 0 12 Q 0 0 12 0 L 408 0 Q 420 0 420 12 L 420 40 L 0 40 Z" fill="#0F172A"/>
-    <circle cx="20" cy="20" r="6" fill="#EF4444"/>
-    <circle cx="40" cy="20" r="6" fill="#F59E0B"/>
-    <circle cx="60" cy="20" r="6" fill="#10B981"/>
-    <text x="80" y="24" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="12">user@developer:~</text>
-    <rect x="330" y="14" width="70" height="16" rx="4" fill="#10B981" fill-opacity="0.2" stroke="#10B981" stroke-width="1"/>
-    <text x="340" y="25" fill="#10B981" font-family="ui-monospace, monospace" font-size="10">[ ONLINE ]</text>
+<div align="center">
+  <a href="mailto:anas.sh.alhilo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/anasalhelou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/anasalhelou"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
-    <!-- VISUAL.MAP Label -->
-    <text x="20" y="70" fill="#22D3EE" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2">[ VISUAL.MAP ]</text>
-    
-    <!-- ASCII Portrait (Placeholder for your photo) -->
-    <g transform="translate(75, 90)">
-      <text font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8" xml:space="preserve">
-        <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze" begin="0.5s"/>
-        <tspan x="0" dy="0">        .:*#@@@@@@#*:.        </tspan>
-        <tspan x="0" dy="10">      .*@@@@@@@@@@@@@@*.      </tspan>
-        <tspan x="0" dy="10">     :@@@@@@@@@@@@@@@@:     </tspan>
-        <tspan x="0" dy="10">    .@@@@@@@@@@@@@@@@@@.    </tspan>
-        <tspan x="0" dy="10">    *@@@@@@@@@@@@@@@@@@*    </tspan>
-        <tspan x="0" dy="10">    #@@@@@@@@@@@@@@@@@@#    </tspan>
-        <tspan x="0" dy="10">    #@@@@@@@@@@@@@@@@@@#    </tspan>
-        <tspan x="0" dy="10">    *@@@@@@@@@@@@@@@@@@*    </tspan>
-        <tspan x="0" dy="10">    .@@@@@@#******#@@@@@@.    </tspan>
-        <tspan x="0" dy="10">     :@@@@#  :::.  #@@@@:     </tspan>
-        <tspan x="0" dy="10">      *@@@*  :::.  *@@@*      </tspan>
-        <tspan x="0" dy="10">       #@@@#      #@@@#       </tspan>
-        <tspan x="0" dy="10">        *@@@*::::*@@@*        </tspan>
-        <tspan x="0" dy="10">         .#@@@@@@@@#.         </tspan>
-        <tspan x="0" dy="10">           .*#%%#*.           </tspan>
-        <tspan x="0" dy="10">                              </tspan>
-        <tspan x="0" dy="10">       .+*#@@@@@@@@#*+.       </tspan>
-        <tspan x="0" dy="10">     .*@@@@@@@@@@@@@@@@*.     </tspan>
-        <tspan x="0" dy="10">    .@@@@@@@@@@@@@@@@@@@@.   </tspan>
-        <tspan x="0" dy="10">    *@@@@@@@@@@@@@@@@@@@@*   </tspan>
-        <tspan x="0" dy="10">    #@@@@@@@@@@@@@@@@@@@@#   </tspan>
-        <tspan x="0" dy="10">    *@@@@@@@@@@@@@@@@@@@@*   </tspan>
-        <tspan x="0" dy="10">     .*@@@@@@@@@@@@@@@@*.    </tspan>
-        <tspan x="0" dy="10">        .:=+*#%%%#*+=:.       </tspan>
-      </text>
-      <!-- Scanline Animation -->
-      <rect x="0" y="0" width="260" height="2" fill="#22D3EE" opacity="0.5">
-        <animate attributeName="y" values="0;260;0" dur="4s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0.8;0" dur="4s" repeatCount="indefinite"/>
-      </rect>
-    </g>
+---
 
-    <!-- Command Prompt -->
-    <text x="20" y="510" fill="#10B981" font-family="ui-monospace, monospace" font-size="12">~/profile $ <tspan fill="#F8FAFC">build --ship</tspan></text>
-  </g>
+### 👨‍💻 About Me
 
-  <!-- ================= RIGHT PANEL (SYSTEM.INFO) ================= -->
-  <g transform="translate(480, 32)">
-    <!-- Glass Panel -->
-    <rect x="0" y="0" width="660" height="540" rx="12" fill="url(#panelGrad)" stroke="#334155" stroke-width="1"/>
-    
-    <!-- Prompt -->
-    <text x="24" y="40" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="14">user@developer:~$ <tspan fill="#22D3EE">./profile.sh</tspan></text>
-    
-    <!-- Divider -->
-    <line x1="24" y1="60" x2="636" y2="60" stroke="#334155" stroke-width="1" stroke-dasharray="4"/>
+I am a Cross-Platform Developer specializing in mobile application development with **Flutter & Dart**. I focus on building well-structured, maintainable applications and turning product requirements into reliable mobile experiences.
 
-    <!-- Name -->
-    <text x="24" y="105" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="42" font-weight="bold">Anas Alhelou</text>
-    
-    <!-- Headline & Typing Effect -->
-    <g transform="translate(24, 145)">
-      <text fill="#22D3EE" font-family="ui-monospace, monospace" font-size="16" clip-path="url(#typingMask)">
-        Cross-Platform Developer | Flutter Specialist
-      </text>
-      <rect x="0" y="-4" width="8" height="20" fill="#22D3EE" clip-path="url(#typingMask)">
-        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-      </rect>
-    </g>
+- 🏗️ **Architecture:** Clean Architecture, Feature-First structure, and SOLID principles.
+- ⚙️ **Core Engineering:** BLoC state management, REST API integration, local storage, authentication, and offline-first functionality.
+- 📱 **Native Awareness:** Experience with native Android, providing a solid understanding of platform-specific functionality.
+- 🤝 **Collaboration:** Comfortable working in team environments using Git and GitHub.
 
-    <!-- System Info Grid -->
-    <g transform="translate(24, 200)" font-family="ui-monospace, monospace" font-size="14">
-      <text x="0" y="0" fill="#10B981">&gt; NAME</text>
-      <text x="150" y="0" fill="#F8FAFC">:</text>
-      <text x="170" y="0" fill="#94A3B8">Anas Alhelou</text>
+---
 
-      <text x="0" y="30" fill="#10B981">&gt; ROLE</text>
-      <text x="150" y="30" fill="#F8FAFC">:</text>
-      <text x="170" y="30" fill="#94A3B8">Cross-Platform Developer</text>
+### 🛠️ Tech Stack
 
-      <text x="0" y="60" fill="#10B981">&gt; FOCUS</text>
-      <text x="150" y="60" fill="#F8FAFC">:</text>
-      <text x="170" y="60" fill="#94A3B8">Clean Architecture &amp; BLoC</text>
+**Core Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</p>
 
-      <text x="0" y="90" fill="#10B981">&gt; STACK</text>
-      <text x="150" y="90" fill="#F8FAFC">:</text>
-      <text x="170" y="90" fill="#94A3B8">Flutter · Dart · Android · REST</text>
+**Architecture & State Management**
+<p align="left">
+  <img src="https://img.shields.io/badge/BLoC-1A237E?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Clean Architecture">
+  <img src="https://img.shields.io/badge/SOLID-607D8B?style=for-the-badge&logo=abstract&logoColor=white" alt="SOLID">
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+</p>
 
-      <text x="0" y="120" fill="#10B981">&gt; OPEN_TO</text>
-      <text x="150" y="120" fill="#F8FAFC">:</text>
-      <text x="170" y="120" fill="#94A3B8">Collaborations &amp; Projects</text>
-    </g>
+**Tools & Workflow**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
 
-    <!-- Tech Pills -->
-    <g transform="translate(24, 360)" font-family="ui-monospace, monospace" font-size="12">
-      <!-- Flutter -->
-      <rect x="0" y="0" width="80" height="28" rx="14" fill="#02569B" fill-opacity="0.2" stroke="#02569B" stroke-width="1"/>
-      <circle cx="15" cy="14" r="4" fill="#02569B"/>
-      <text x="25" y="18" fill="#F8FAFC">Flutter</text>
-      
-      <!-- Dart -->
-      <rect x="95" y="0" width="70" height="28" rx="14" fill="#0175C2" fill-opacity="0.2" stroke="#0175C2" stroke-width="1"/>
-      <circle cx="110" cy="14" r="4" fill="#0175C2"/>
-      <text x="120" y="18" fill="#F8FAFC">Dart</text>
+---
 
-      <!-- BLoC -->
-      <rect x="180" y="0" width="70" height="28" rx="14" fill="#1A237E" fill-opacity="0.2" stroke="#1A237E" stroke-width="1"/>
-      <circle cx="195" cy="14" r="4" fill="#1A237E"/>
-      <text x="205" y="18" fill="#F8FAFC">BLoC</text>
+### 🎯 Current Focus
 
-      <!-- Architecture -->
-      <rect x="265" y="0" width="130" height="28" rx="14" fill="#4CAF50" fill-opacity="0.2" stroke="#4CAF50" stroke-width="1"/>
-      <circle cx="280" cy="14" r="4" fill="#4CAF50"/>
-      <text x="290" y="18" fill="#F8FAFC">Clean Arch</text>
-    </g>
+```yaml
+currently:
+  - Deepening my Flutter architecture skills in real-world projects
+  - Exploring better patterns for scalable state management
+  - Contributing to cross-platform products with real impact
 
-    <!-- Links -->
-    <g transform="translate(24, 480)" font-family="ui-monospace, monospace" font-size="14">
-      <text x="0" y="0" fill="#94A3B8">Connect:</text>
-      <a href="mailto:anas.sh.alhilo@gmail.com" target="_blank">
-        <text x="80" y="0" fill="#22D3EE">Email</text>
-      </a>
-      <a href="https://www.linkedin.com/in/anasalhelou" target="_blank">
-        <text x="140" y="0" fill="#22D3EE">LinkedIn</text>
-      </a>
-      <a href="https://github.com/anasalhelou" target="_blank">
-        <text x="220" y="0" fill="#22D3EE">GitHub</text>
-      </a>
-    </g>
-  </g>
-</svg>
+open_to:
+  - Flutter / Mobile development roles
+  - Freelance & contract projects
+  - Collaboration on open-source tools
