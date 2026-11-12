@@ -1,21 +1,29 @@
-<h1 align="center">Anas Alhelou</h1>
-<h3 align="center">Cross-Platform Developer | Flutter Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:anas.sh.alhilo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/anasalhelou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=220&section=header&text=Anas%20Alhelou&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cross-Platform%20Developer%20%7C%20Flutter%20Specialist&descAlignY=55&descSize=18" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Building+maintainable+mobile+apps+with+Flutter;Clean+Architecture+%7C+BLoC+%7C+SOLID;Turning+designs+into+reliable+products" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:anas.sh.alhilo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/anasalhelou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
+
 I am a Cross-Platform Developer specializing in mobile application development with **Flutter & Dart**. I focus on building well-structured, maintainable applications and turning product requirements into reliable mobile experiences.
 
-*   **Architecture:** Clean Architecture, Feature-First structure, and SOLID principles.
-*   **Core Engineering:** BLoC state management, REST API integration, local storage, authentication, and offline-first functionality.
-*   **Native Awareness:** Experience with native Android, providing a solid understanding of platform-specific functionality and how Flutter interacts with native code.
-*   **Collaboration:** Comfortable working in team environments using Git and GitHub, including branching, pull requests, and code reviews.
+- 🏗️ **Architecture:** Clean Architecture, Feature-First structure, and SOLID principles.
+- ⚙️ **Core Engineering:** BLoC state management, REST API integration, local storage, authentication, and offline-first functionality.
+- 📱 **Native Awareness:** Experience with native Android, providing a solid understanding of platform-specific functionality.
+- 🤝 **Collaboration:** Comfortable working in team environments using Git and GitHub.
 
 ---
 
@@ -46,7 +54,34 @@ I am a Cross-Platform Developer specializing in mobile application development w
 
 ---
 
+### 💻 Terminal Stats & Activity
+
+<div align="center">
+
+<a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=USERNAME&theme=tokyonight&headerStyle=mac&typingSpeed=60" alt="Terminal Stats" />
+</a>
+
+<br/><br/>
+
+<!-- إذا كنت تريد إضافة بطاقة الإحصائيات التقليدية، تأكد من استبدال USERNAME -->
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+-->
+
+</div>
+
+---
+
 ### 🎯 Current Focus
-*   Deepening my Flutter architecture skills in real-world projects.
-*   Exploring better patterns for scalable state management.
-*   Open to collaborating on cross-platform products where I can contribute to meaningful projects.
+
+```yaml
+currently:
+  - Deepening my Flutter architecture skills in real-world projects
+  - Exploring better patterns for scalable state management
+  - Contributing to cross-platform products with real impact
+
+open_to:
+  - Flutter / Mobile development roles
+  - Freelance & contract projects
+  - Collaboration on open-source tools
