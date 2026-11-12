@@ -58,7 +58,10 @@ I am a Cross-Platform Developer specializing in mobile application development w
 
 <div align="center">
   <!-- استبدل USERNAME باسم حسابك الحقيقي في GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=anasalhelou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=anasalhelou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
 </div>
 
 ---
